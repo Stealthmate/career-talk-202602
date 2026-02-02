@@ -28,6 +28,7 @@ section {
   font-family: 'Noto Sans JP', 'Helvetica Neue', Arial, sans-serif;
   background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
   padding: 50px 60px;
+  align-content: start;
 }
 
 h1 {
@@ -57,6 +58,7 @@ section.title {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-content: center;
   align-items: center;
   text-align: center;
   background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
@@ -941,6 +943,7 @@ section.conclusion h2 {
 section.dark {
   background: var(--bg-dark);
   color: white;
+  align-content: center;
 }
 
 section.dark h1 {
