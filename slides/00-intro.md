@@ -1,6 +1,4 @@
----
-theme: default
----
+<!-- _class: dark -->
 
 # 高校卒業 10 周年
 
@@ -69,13 +67,17 @@ theme: default
 
 # 今日は何の会？
 
-話の流れはこんな感じ。
+<div data-marpit-fragment>
+話の流れはこんな感じ:
+</div>
 
-1. 高校篇
-2. 大学篇
-3. 社会人篇
+1) 高校篇
+2) 大学篇
+3) 社会人篇
 
+<div data-marpit-fragment>
 エンタメだと思って気軽に聞いてください！
+</div>
 
 ---
 
