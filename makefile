@@ -5,3 +5,6 @@ SOURCES := $(wildcard slides/*.md)
 
 preview: .ignored/main.md
 	npx marp --html --theme ./theme.css -p $<
+
+%.preview: slides/%.md
+	npx marp --html --theme ./theme.css -p $<
