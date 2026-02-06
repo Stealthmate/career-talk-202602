@@ -6,7 +6,7 @@ SOURCES := $(wildcard slides/*.md)
 .ignored/%: slides/%
 	cp $^ $@
 
-preview: .ignored/main.md .ignored/sapling.jpg .ignored/mental.png
+preview: .ignored/main.md .ignored/sapling.jpg .ignored/mental.png .ignored/yukichi.jpg
 	npx marp --html --theme ./theme.css -p $<
 
 %.preview: slides/%.md

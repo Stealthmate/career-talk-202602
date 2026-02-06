@@ -64,7 +64,14 @@
 
 <!-- -class: custom-centered -->
 
-<div class="proclamation"><h2>カネ</h2></div>
+<div class="image-container">
+<img src="yukichi.jpg" height="500px"/>
+<div data-marpit-fragment class="image-caption" style="font-size: 2em;">
+
+## カネ
+
+</div>
+</div>
 
 ---
 
@@ -79,7 +86,7 @@
     - 楽器と同じ: 上手くなりたければいっぱい弾くしかない
 - カネ
     * カネで幸せは買えない
-    * しかし道具と経験値は買える（後述）
+    * しかし道具と経験値は買える
 
 ---
 
@@ -128,8 +135,8 @@
 * タバコは思ってる以上に臭いよ
 * 深夜のジンより早朝のコーヒーの方が意外と美味いよ
 * 毎朝 15 分だけ掃除すれば部屋が綺麗になるよ
-* NISA は早めに始めた方が良いよ
-* 人に惚れる前に一回友達のセカンドオピニオンを聞いた方が良いよ
+* 仕事の話を技術ブログに書いた方がいいよ
+* 夜中にサビ残するより友達とダベった方がいいよ
 * 宿の店員さんが LINE でハートを送ってくれるのは営業だよ 🥰
 * 世の中の大人は意外とポンコツだよ
 * 大学生はたいていクソガキだよ
@@ -137,9 +144,13 @@
 
 ---
 
-<!-- -class: custom-centered -->
+<div class="proclamation">
 
-<div class="proclamation"><h2>卒業さえすれば全部笑い話！</h2></div>
+## 無事生き残れて<br />良かったね！
+
+<span class="de-emph" style="font-size: .7em;">無事とは？</span>
+
+</div>
 
 ---
 
@@ -175,7 +186,7 @@
 </div>
 <div>
 
-The best time to plant a tree was 30 years ago. The second best time is [<span data-marpit-fragment>now</span>].
+The best time to plant a tree was 30 years ago. The second best time is <span data-marpit-fragment> **now.** </span>
 
 </div>
 

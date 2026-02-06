@@ -44,6 +44,14 @@ section.full-image img {
   height: 100%;
 }
 
+strong {
+  color: #A00;
+  font-weight: bold;
+}
+
+.de-emph {
+  color: #AAA;
+}
 
 /* ================================
    1. Base Styles
