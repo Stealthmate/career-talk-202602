@@ -145,12 +145,38 @@
 
 # 今の皆さんに言いたいこと
 
-* 大学生活は荒れがちだから大人に頼った方が良い
-* 大人に頼っても荒れるけどね
-* 荒れててるってことは経験値が貯まってるってこと
-* 元気な時は冒険しよう
-    * 戦略的なバイト or 部活
-* 元気ない時は友達に泣きついて美味いもん食って寝よう
-* 生きてればなんとかなる
+* 大学にいる間に苦労しておいた方が良い
+* 苦労は投資と同じ
+
+<div class="two-column"><div data-marpit-fragment class="column">
+
+1. まずは収支を黒字にする
+2. 次に緊急用の貯金を作る
+3. 以降余った分は全部投資
+
+</div><div class="column">
+
+1) 日頃から無理するのを辞める
+2) 辛いときに助けてくれる人を作る
+3) 敢えて苦手なことをしてみる
+
+</div></div>
+
+* 残念ながら苦労する気力にも貧富の格差はある
+    * 人間関係に恵まれた人もいれば、そうでない人もいる
+
+---
+
+<div class="image-container">
+<img src="./sapling.jpg" height="500px"/>
+<div class="image-caption">
+<a href="https://www.pexels.com/photo/hand-planting-a-tree-seedling-in-uganda-35744764/" style="font-size: .5em">https://www.pexels.com/photo/hand-planting-a-tree-seedling-in-uganda-35744764/</a>
+</div>
+</div>
+<div>
+
+The best time to plant a tree was 30 years ago. The second best time is [<span data-marpit-fragment>now</span>].
+
+</div>
 
 ---
