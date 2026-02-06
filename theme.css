@@ -40,7 +40,7 @@ div.proclamation {
    1. Base Styles
    ================================ */
 section {
-  font-family: 'Noto Sans JP', 'Helvetica Neue', Arial, sans-serif;
+  font-family: 'Noto Sans CJK JP', 'Helvetica Neue', Arial, sans-serif;
   background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
   padding: 50px 60px;
   align-content: start;
