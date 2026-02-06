@@ -46,7 +46,7 @@
 
 # 今日は何の会？
 
-<div data-marpit-fragment class="highlight-box">
+<div class="highlight-box">
   <h2>情報工学科を選ぶと<br />どういう結果になり得るのか？</h2>
   <p data-marpit-fragment>要は事例紹介。</p>
 </div>
