@@ -55,8 +55,6 @@
 
 # 今日は何の会？
 
-<!-- _class: agenda -->
-
 今日の目的は 2 つ。
 
 <span data-marpit-fragment>
