@@ -60,6 +60,10 @@ img.icon {
   top: 5px;
 }
 
+section.agenda ul, section.agenda ol {
+  font-size: 1.5em;
+}
+
 /* ================================
    1. Base Styles
    ================================ */
@@ -576,7 +580,7 @@ section.title h2 {
 /* ================================
    19. Agenda Slide
    ================================ */
-section.agenda {
+/* section.agenda {
   background: var(--bg-light);
 }
 
@@ -609,7 +613,7 @@ section.agenda {
   align-items: center;
   justify-content: center;
   font-weight: 700;
-}
+} */
 
 /* ================================
    20. Conclusion Slide
