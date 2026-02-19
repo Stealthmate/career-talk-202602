@@ -53,6 +53,13 @@ strong {
   color: #AAA;
 }
 
+img.icon {
+  width: 30px;
+  height: 30px;
+  position: relative;
+  top: 5px;
+}
+
 /* ================================
    1. Base Styles
    ================================ */

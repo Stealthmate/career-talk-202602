@@ -51,7 +51,7 @@
 * 挙句の果て配属された結果しょうもない仕事しか振られない・・・
 
 <div data-marpit-fragment class="highlight-box">
-<h2>エンジニアって何なん？</h2>
+<h2>これ何なの？！</h2>
 </div>
 
 ---
@@ -70,6 +70,102 @@
     * 誹謗中傷を自動（AI）で判定するツールとか
 * 管理会計
 * セキュリティ部門の各種ツール開発
+
+---
+
+# おまけ: 考えてみよう！
+
+<div class="cta">
+<h2>会社がわざわざセキュリティに<br />お金を使う理由は何？</h2>
+</div>
+
+---
+
+# セキュリティとは？
+
+* インフラエンジニアの課題が「安定稼働」だとするなら・・・
+* セキュリティエンジニアの課題は「犯罪防止」みたいなもの
+
+---
+
+# セキュリティとは？
+
+<div class="two-column" style="grid-template-columns: 70% 30%;">
+
+<div class="column">
+
+## Red Team
+
+* 試しに攻撃してくれる人たち
+* 細かい隙を探すのが得意
+* 脆弱性を見つける側
+
+<!-- Appending: Meltdown, side-channels, etc. -->
+
+</div>
+
+<div class="column">
+
+<img src="./redteam.png" width="100%" />
+
+</div>
+
+</div>
+
+<footer class="footnotes">
+<span class="de-emph">https://commons.wikimedia.org/wiki/File:Anonymous_mask.gif</span>
+</footer>
+
+---
+
+# セキュリティとは？
+
+<div class="two-column" style="grid-template-columns: 70% 30%;">
+
+<div class="column">
+
+## Blue Team
+
+* 社内 FBI
+* PC のすべてを監視する
+* 怪しい挙動を上手に検知して、即座に封じる
+* 企業間や政府等とも連携
+
+<!-- Appendix: TLS malware detection, CSIRT -->
+
+</div>
+
+<div class="column">
+
+<img src="./blueteam.png" width="100%" />
+
+</div>
+
+<footer class="footnotes">
+<span class="de-emph">https://commons.wikimedia.org/wiki/File:Cybersecurity.png</span>
+</footer>
+
+---
+
+# セキュリティとは？
+
+## 社内土方
+
+* 問題が起きても困らないように日頃から社内整備をする人たち
+* セキュリティ関連のツールの開発・運用
+    * 脆弱性検知
+    * アクセス制御
+    * 監視
+* セキュリティ相談
+
+---
+
+# セキュリティとは？
+
+## 法規部隊
+
+* **監査** と **コンプライアンス**
+* 会社の受験対策
 
 ---
 

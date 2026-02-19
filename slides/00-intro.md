@@ -11,14 +11,29 @@
 
 # お前誰？
 
-* ヴァレリ
+<div class="two-column" style="grid-template-columns: 60% 40%;">
+
+<div class="column">
+
+- ヴァレリ
 * 純ブルガリア人
     * ヨーグルト嫌い歴 28 年
     * ただし 2025 年 12 月から好きになった
 * 19 歳で渡日
 * 趣味
     * 編み物、ハープ、カメラ、読書、旅行、料理
-* @biregulartree, @valph_oto TODO
+* <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" class="icon"/> @biregulartree, <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg" class="icon" /> @stealthmate
+
+</div>
+
+<div class="column" style="display: flex; flex-direction: column; align-items: end;">
+
+<img src="profile.jpg"  width="100%" />
+
+</div>
+
+</div>
+
 
 ---
 
@@ -39,7 +54,7 @@
 # 今日は何の会？
 
 * 正直めっちゃ悩んだ
-* 何を話せばためになろうんだろう・・・
+* 何を話せばためになるんだろう・・・
 * 先輩として語ることの意義？
 
 ---
@@ -72,24 +87,7 @@
 * 悩まなくていいことは悩まなくていい。
 * コケてもなんとかなる。
 
----
-
-# 今日は何の会？
-
-<div data-marpit-fragment>
-
-話の流れはこんな感じ:
-</div>
-
-
-1) 高校篇
-2) 大学篇
-3) 会社員篇
-
-<div data-marpit-fragment>
-
-エンタメだと思って気軽に聞いてください！
-</div>
+<div data-marpit-fragment>エンタメだと思って気軽に聞いてください！</div>
 
 ---
 
